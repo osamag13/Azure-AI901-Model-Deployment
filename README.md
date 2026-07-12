@@ -16,45 +16,14 @@ This notebook connects to a model deployed on Azure AI Foundry and sends chat co
 
 ## 🛠️ Tech Stack
 
-| 
-  Component 
-| 
-  Technology 
-|
-|
----
-|
----
-|
-| 
-  Language 
-| 
-  Python
-|
-| 
-  Model Hosting 
-| 
-  Azure AI Foundry
-|
-| 
-  Model 
-  Phi-4-mini-reasoning
-|
-| 
-  SDK 
-| 
-  OpenAI Python SDK (Azure-compatible endpoint) 
-|
-| 
-  Config Management
-| 
-  python-dotenv
-|
-|
-  Environment
-| 
-  Jupyter Notebook
-|
+|  Component |  Technology |
+|---|---|
+|  Language |  Python |
+|  Model Hosting |  Azure AI Foundry |
+|  Model |  Phi-4-mini-reasoning |
+|  SDK |  OpenAI Python SDK (Azure-compatible endpoint) |
+|  Config Management |  python-dotenv |
+|  Environment |  Jupyter Notebook |
 
 ## ⚙️ How It Works
 
