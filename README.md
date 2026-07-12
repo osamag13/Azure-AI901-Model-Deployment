@@ -1,4 +1,4 @@
-\# Azure AI-900 Model Deployment
+# Azure AI-900 Model Deployment
 
 
 
@@ -6,7 +6,7 @@ A hands-on project demonstrating model deployment and inference using Azure AI F
 
 
 
-\## 📋 Overview
+## 📋 Overview
 
 
 
@@ -14,7 +14,7 @@ This notebook connects to a model deployed on Azure AI Foundry and sends chat co
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 
@@ -36,21 +36,21 @@ This notebook connects to a model deployed on Azure AI Foundry and sends chat co
 
 
 
-\## ⚙️ How It Works
+## ⚙️ How It Works
 
 
 
-1\. The notebook connects to a model endpoint hosted on Azure AI Foundry.
+1. The notebook connects to a model endpoint hosted on Azure AI Foundry.
 
-2\. Using the OpenAI-compatible client, it sends a chat completion request to the deployed model.
+2. Using the OpenAI-compatible client, it sends a chat completion request to the deployed model.
 
-3\. The model (Phi-4-mini-reasoning) processes the request in the cloud and returns a response.
+3. The model (Phi-4-mini-reasoning) processes the request in the cloud and returns a response.
 
-4\. API credentials are loaded securely from environment variables, keeping secrets out of the codebase.
+4. API credentials are loaded securely from environment variables, keeping secrets out of the codebase.
 
 
 
-\## 🖥️ Run Locally
+## 🖥️ Run Locally
 
 
 
@@ -104,21 +104,21 @@ jupyter notebook "Model\_Deploy-Osama Ghafoor.ipynb"
 
 
 
-\## 📚 What I Learned
+## 📚 What I Learned
 
 
 
-\- Deploying and calling models hosted on Azure AI Foundry
+- Deploying and calling models hosted on Azure AI Foundry
 
-\- Using the OpenAI-compatible SDK to interact with Azure-hosted endpoints
+- Using the OpenAI-compatible SDK to interact with Azure-hosted endpoints
 
-\- Secure credential management using environment variables
+- Secure credential management using environment variables
 
-\- Practical, hands-on application of concepts covered in the AI-900 certification
+- Practical, hands-on application of concepts covered in the AI-900 certification
 
 
 
-\## 📄 License
+## 📄 License
 
 
 
@@ -126,7 +126,7 @@ This project is open source and available for anyone to learn from and build upo
 
 
 
-\---
+---
 
 
 
